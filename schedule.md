@@ -16,3 +16,12 @@ Raise your hand
 
 Are you stuck or do you have a question? Raise your hand and a coach will be
 with you in a minute.
+
+This presentation
+-----------------
+
+This presentation contains links that you will need to access the various
+resources used in the course curriculum. You can access this presentation at
+the URL below:
+
+<http://intro.stockholmruby.com>
